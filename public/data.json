@@ -1,0 +1,35 @@
+{
+  "_NOTE": "UniqueKey can be anything. set isLink for external urls.",
+  "items": [
+    {
+      "itemUniqueKey": "1",
+      "title": "MRI results",
+      "content":
+      "Lorem ipsum dolor sit amet, <b>consectetur</b> adipiscing elit.",
+      "isLink": false,
+      "date": "8/28/17",
+      "boxCssClass": "",
+      "stepCssClass": ""
+    },
+    {
+      "itemUniqueKey": "2",
+      "title": "MRI results",
+      "content":
+      "msData/lumbar-9-20-21.pdf",
+      "isLink": true,
+      "date": "09/20/21",
+      "boxCssClass": "",
+      "stepCssClass": ""
+    },
+    {
+      "itemUniqueKey": "2",
+      "title": "HTML sample",
+      "content":
+      "msData/sample.html",
+      "isLink": true,
+      "date": "09/20/21",
+      "boxCssClass": "",
+      "stepCssClass": ""
+    }
+  ]
+}
